@@ -1,0 +1,6 @@
+c:\users\patryk\documents\visual studio 2013\Projects\platne\Losowanie\Losowanie\bin\Debug\Losowanie.exe.config
+c:\users\patryk\documents\visual studio 2013\Projects\platne\Losowanie\Losowanie\bin\Debug\Losowanie.exe
+c:\users\patryk\documents\visual studio 2013\Projects\platne\Losowanie\Losowanie\bin\Debug\Losowanie.pdb
+c:\users\patryk\documents\visual studio 2013\Projects\platne\Losowanie\Losowanie\obj\Debug\Losowanie.csprojResolveAssemblyReference.cache
+c:\users\patryk\documents\visual studio 2013\Projects\platne\Losowanie\Losowanie\obj\Debug\Losowanie.exe
+c:\users\patryk\documents\visual studio 2013\Projects\platne\Losowanie\Losowanie\obj\Debug\Losowanie.pdb
